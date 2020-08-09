@@ -1,0 +1,20 @@
+.button {
+  -fx-max-width: 250px;
+  -fx-max-height: 250px;
+  -fx-padding: 30px;
+  -fx-background-radius: 200px;
+  -fx-background-color: rgb(116, 185, 255);
+  -fx-font-family: 'Comic Sans MS';
+}
+
+.button:hover {
+  -fx-background-color: rgb(249, 242, 100);
+}
+
+.buttonBack:hover {
+  // Red background color -- match with initial red shade on the logo.
+}
+
+.label {
+  -fx-font-family: 'Comic Sans MS';
+}
